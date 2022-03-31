@@ -41,7 +41,6 @@ function draw() {
     text("Book 60%", 585, 182);
     noFill();
 }
-
 function back() {
-    window.location = "home.html";
+    window.location = "index.html";
 }

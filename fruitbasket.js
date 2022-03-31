@@ -32,7 +32,6 @@ function draw() {
     stroke("red");
     rect(75, 33, 165, 107);
 }
-
 function back() {
-    window.location = "home.html";
+    window.location = "index.html";
 }
